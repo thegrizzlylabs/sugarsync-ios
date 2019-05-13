@@ -10,6 +10,8 @@
 //  this copyright and permission notice. Attribution in compiled projects is
 //  appreciated but not required.
 
+@import UIKit;
+
 #import <Foundation/Foundation.h>
 #import "SugarSyncAlbum.h"
 #import "SugarSyncUser.h"
