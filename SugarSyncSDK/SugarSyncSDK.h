@@ -15,3 +15,14 @@ FOUNDATION_EXPORT double SugarSyncSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char SugarSyncSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SugarSyncSDK/PublicHeader.h>
+
+#import "SugarSyncFile.h"
+#import "SugarSyncContact.h"
+#import "SugarSyncClient.h"
+#import "SugarSyncCollection.h"
+#import "SugarSyncFolder.h"
+#import "SugarSyncWorkspace.h"
+#import "SugarSyncReceivedShare.h"
+#import "SugarSyncUser.h"
+#import "SugarSyncAlbum.h"
+#import "SugarSyncFileVersion.h"

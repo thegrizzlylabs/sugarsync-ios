@@ -9,16 +9,16 @@
 /* Begin PBXBuildFile section */
 		15D410DA228A1A5400E5DB0F /* SugarSyncSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410D8228A1A5400E5DB0F /* SugarSyncSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15D41107228A1AB100E5DB0F /* sugarsync-banner.png in Resources */ = {isa = PBXBuildFile; fileRef = 15D410E1228A1AB100E5DB0F /* sugarsync-banner.png */; };
-		15D41108228A1AB100E5DB0F /* SugarSyncFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E3228A1AB100E5DB0F /* SugarSyncFile.h */; };
-		15D41109228A1AB100E5DB0F /* SugarSyncContact.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E4228A1AB100E5DB0F /* SugarSyncContact.h */; };
-		15D4110A228A1AB100E5DB0F /* SugarSyncClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E5228A1AB100E5DB0F /* SugarSyncClient.h */; };
-		15D4110B228A1AB100E5DB0F /* SugarSyncCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E6228A1AB100E5DB0F /* SugarSyncCollection.h */; };
-		15D4110C228A1AB100E5DB0F /* SugarSyncFolder.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E7228A1AB100E5DB0F /* SugarSyncFolder.h */; };
-		15D4110D228A1AB100E5DB0F /* SugarSyncWorkspace.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E8228A1AB100E5DB0F /* SugarSyncWorkspace.h */; };
-		15D4110E228A1AB100E5DB0F /* SugarSyncReceivedShare.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E9228A1AB100E5DB0F /* SugarSyncReceivedShare.h */; };
-		15D4110F228A1AB100E5DB0F /* SugarSyncUser.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EA228A1AB100E5DB0F /* SugarSyncUser.h */; };
-		15D41110228A1AB100E5DB0F /* SugarSyncAlbum.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EB228A1AB100E5DB0F /* SugarSyncAlbum.h */; };
-		15D41111228A1AB100E5DB0F /* SugarSyncFileVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EC228A1AB100E5DB0F /* SugarSyncFileVersion.h */; };
+		15D41108228A1AB100E5DB0F /* SugarSyncFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E3228A1AB100E5DB0F /* SugarSyncFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D41109228A1AB100E5DB0F /* SugarSyncContact.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E4228A1AB100E5DB0F /* SugarSyncContact.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110A228A1AB100E5DB0F /* SugarSyncClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E5228A1AB100E5DB0F /* SugarSyncClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110B228A1AB100E5DB0F /* SugarSyncCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E6228A1AB100E5DB0F /* SugarSyncCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110C228A1AB100E5DB0F /* SugarSyncFolder.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E7228A1AB100E5DB0F /* SugarSyncFolder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110D228A1AB100E5DB0F /* SugarSyncWorkspace.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E8228A1AB100E5DB0F /* SugarSyncWorkspace.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110E228A1AB100E5DB0F /* SugarSyncReceivedShare.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410E9228A1AB100E5DB0F /* SugarSyncReceivedShare.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D4110F228A1AB100E5DB0F /* SugarSyncUser.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EA228A1AB100E5DB0F /* SugarSyncUser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D41110228A1AB100E5DB0F /* SugarSyncAlbum.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EB228A1AB100E5DB0F /* SugarSyncAlbum.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		15D41111228A1AB100E5DB0F /* SugarSyncFileVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EC228A1AB100E5DB0F /* SugarSyncFileVersion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		15D41112228A1AB100E5DB0F /* SSHttpFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 15D410EE228A1AB100E5DB0F /* SSHttpFetcher.m */; };
 		15D41113228A1AB100E5DB0F /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = 15D410EF228A1AB100E5DB0F /* XPathQuery.h */; };
 		15D41114228A1AB100E5DB0F /* SSXMLLibUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 15D410F0228A1AB100E5DB0F /* SSXMLLibUtil.m */; };
